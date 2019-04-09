@@ -3,7 +3,7 @@ package netlink
 import (
 	"encoding/binary"
 
-	"github.com/WigWagCo/netlink/nl"
+	"github.com/armPelionEdge/netlink/nl"
 )
 
 var (

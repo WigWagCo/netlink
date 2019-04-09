@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/WigWagCo/netlink/nl"
+	"github.com/armPelionEdge/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 

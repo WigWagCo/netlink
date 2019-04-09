@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/WigWagCo/netlink/nl"
+	"github.com/armPelionEdge/netlink/nl"
 	"github.com/vishvananda/netns"
 	"golang.org/x/sys/unix"
 )
